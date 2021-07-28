@@ -9,5 +9,11 @@ public class Class1
 		{
 			Console.WriteLine("Hello LTI");
 		}
+		{
+			public void Package()
+			{
+				Console.WriteLine("Pack added");
+			}
+		}
 	}
 }
