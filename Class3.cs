@@ -15,5 +15,11 @@ public class Class1
 				Console.WriteLine("Pack added");
 			}
 		}
+		{
+			public void Deepti()
+			{
+				Console.WriteLine("Deepti");
+			}
+		}
 	}
 }
